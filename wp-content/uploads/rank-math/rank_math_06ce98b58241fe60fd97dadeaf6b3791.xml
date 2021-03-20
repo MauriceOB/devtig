@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//devtig.online/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://devtig.online/post-sitemap.xml</loc>
+		<lastmod>2021-02-12T20:52:55+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://devtig.online/page-sitemap.xml</loc>
+		<lastmod>2021-02-13T00:41:22+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://devtig.online/e-landing-page-sitemap.xml</loc>
+		<lastmod>2021-02-13T00:14:54+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://devtig.online/category-sitemap.xml</loc>
+		<lastmod>2021-02-12T20:52:55+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

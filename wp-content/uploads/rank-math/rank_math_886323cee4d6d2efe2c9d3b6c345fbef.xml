@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//devtig.online/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://devtig.online/</loc>
+		<lastmod>2021-02-13T00:41:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://devtig.online/wp-content/uploads/2021/02/devtig-logo.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://devtig.online/checkout/</loc>
+		<lastmod>2021-02-12T23:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://devtig.online/my-account/</loc>
+		<lastmod>2021-02-12T23:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://devtig.online/shop/</loc>
+		<lastmod>2021-02-12T23:23:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://devtig.online/cart/</loc>
+		<lastmod>2021-02-12T23:23:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://devtig.online/sample-page/</loc>
+		<lastmod>2021-02-12T20:52:55+00:00</lastmod>
+	</url>
+</urlset>
